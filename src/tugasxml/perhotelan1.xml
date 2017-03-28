@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alamat xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="perhotelan.xsd">
+  <jalan>NCName</jalan>
+  <nomor>0</nomor>
+</alamat>

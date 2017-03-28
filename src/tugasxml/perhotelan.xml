@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<perhotelan  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="perhotelan.xsd">
+<hotel nama="hotel wahid"> 
+	<harga per="hari">100000</harga>
+	<tipe>suit</tipe>
+	<alamat>
+		<jalan>Pemuda</jalan>
+		<nomor>56</nomor>
+	</alamat>
+	<bintang>5</bintang>
+	<vasilitas>Kolam Renang</vasilitas>
+	<pemilik>
+		<nama>Dr. Wahid</nama>
+		<nohp>085623734123</nohp>
+		<email>wahid@gmail.com</email>
+	</pemilik>
+</hotel>
+
+<hotel nama="hotel mutiara"> 
+	<harga per="hari">300000</harga>
+	<tipe>VIP</tipe>
+	<alamat>
+		<jalan>Pemotongan</jalan>
+		<nomor>12</nomor>
+	</alamat>
+	<bintang>8</bintang>
+	<vasilitas>Wifi</vasilitas>
+	<pemilik>
+		<nama>Ling Tsue</nama>
+		<nohp>082445873491</nohp>
+		<email>lin@gmail.com</email>
+	</pemilik>
+</hotel>
+
+<hotel nama="hotel sahit"> 
+	<harga per="hari">50000</harga>
+	<tipe>biasa</tipe>
+	<alamat>
+		<jalan>Patimura</jalan>
+		<nomor>48</nomor>
+	</alamat>
+	<bintang>2</bintang>
+	<vasilitas>Kantin</vasilitas>
+	<pemilik>
+		<nama>Akbar</nama>
+		<nohp>087889341953</nohp>
+		<email>akbar@gmail.com</email>
+	</pemilik>
+</hotel>
+
+<hotel nama="hotel kartini"> 
+	<harga per="hari">150000</harga>
+	<tipe>suit</tipe>
+	<alamat>
+		<jalan>pancasila</jalan>
+		<nomor>8</nomor>
+	</alamat>
+	<bintang>3</bintang>
+	<vasilitas>Taman</vasilitas>
+	<pemilik>
+		<nama>Samsudin</nama>
+		<nohp>082345123453</nohp>
+		<email>udin@gmail.com</email>
+	</pemilik>
+</hotel>
+
+<hotel nama="hotel transilfania"> 
+	<harga per="hari">500000</harga>
+	<tipe>VVIP</tipe>
+	<alamat>
+		<jalan>Kenangan</jalan>
+		<nomor>66</nomor>
+	</alamat>
+	<bintang>10</bintang>
+	<vasilitas>Restaurant</vasilitas>
+	<pemilik>
+		<nama>Makoto Shinji</nama>
+		<nohp>089485134859</nohp>
+		<email>koto@gmail.com</email>
+	</pemilik>
+</hotel>
+</perhotelan>
